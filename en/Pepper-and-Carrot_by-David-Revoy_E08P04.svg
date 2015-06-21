@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P04.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.60491496"
+     inkscape:cx="1217.2597"
+     inkscape:cy="1788.3993"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep08_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1065.2159,526.82427 c 0.1608,-19.99766 58.4756,-83.13429 226.0918,-76.92263 89.7843,3.32725 213.6997,23.81599 214.5699,76.67511 1.2346,74.98667 -176.203,72.72593 -206.3084,74.949 -30.1054,2.22316 -127.37,2.53113 -177.9786,-16.37037 -43.1383,-16.11141 -56.2049,-31.0878 -56.3747,-58.33111 z"
+       id="path4546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(863.55075,231.32637)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3013">... they'll come ...</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 833.84716,395.25338 c 0.17283,-23.17915 62.8306,-96.36038 242.93004,-89.16049 96.4709,3.85659 229.6149,27.60495 230.55,88.87359 1.3265,86.91653 -189.3259,84.29613 -221.6733,86.87287 -32.3474,2.57685 -136.85587,2.93381 -191.23353,-18.97479 -46.35099,-18.67463 -60.39072,-36.03366 -60.57321,-67.61118 z"
+       id="path4546-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-3"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       transform="translate(658.56245,83.806841)"><flowRegion
+         id="flowRegion2989-5-4-5-3"><rect
+           id="rect2991-7-9-6-8"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3051">But I'm sure that ...</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3372">I'm <flowSpan
+   style="font-style:italic;-inkscape-font-specification:Lavi Italic"
+   id="flowSpan3374">certain</flowSpan> ...</flowPara></flowRoot>    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1390.4444,579.0932 c 18.7289,5.11471 39.3681,13.94076 42.3389,17.10636 2.9707,3.16561 3.5403,29.0288 9.435,31.36015 5.8946,2.33123 19.9529,-4.23421 23.181,-1.87166 3.2281,2.36253 6.9164,21.25493 11.735,22.7987 4.8187,1.54378 31.4537,-1.43509 33.8787,0.67009 2.425,2.10524 15.6258,13.41875 31.9608,19.09482 -24.538,-22.91551 -24.3587,-30.38519 -30.2534,-32.71645 -5.8946,-2.33133 -22.6507,1.59871 -27.2277,-2.08151 -4.577,-3.68014 -8.5227,-21.76961 -14.9476,-23.8279 -6.4248,-2.05835 -17.3175,1.53629 -17.3175,1.53629 1.5283,-6.15207 4.6076,-39.25886 -25.7157,-55.17241 -30.3235,-15.91365 -37.0675,23.10352 -37.0675,23.10352 z"
+       id="path5050"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt" />
+</svg>
