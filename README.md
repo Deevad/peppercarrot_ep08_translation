@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 08 : Pepper's Birthday
+# Episode 08 : Pepper's Birthday Party
 # WORK-IN-PROGRESS - not published
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -15,6 +15,7 @@ License
 ## Translators and correctors :
 
 * French     : David Revoy
+* English    : Alex Gryson
 
 
 ## Fonts:
