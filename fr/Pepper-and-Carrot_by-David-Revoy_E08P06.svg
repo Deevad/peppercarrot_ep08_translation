@@ -102,13 +102,13 @@
      inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="935.34351"
-     inkscape:cy="636.21841"
+     inkscape:zoom="0.46000001"
+     inkscape:cx="1319.3582"
+     inkscape:cy="302.98293"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -117,11 +117,11 @@
     <image
        sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -249,7 +249,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.66233381,0,0,0.66233381,411.82873,3172.3198)"><flowRegion
+       transform="matrix(0.66233381,0,0,0.66233381,411.82873,3169.3198)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
            width="2350.8157"
@@ -257,46 +257,6 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6-3-1"><flowSpan
-           style="fill:#1b1b1b;fill-opacity:1"
-           id="flowSpan3856-1"><flowSpan
-             style="fill:#2d2d2d;fill-opacity:1"
-             id="flowSpan3858-6"><flowSpan
-               style="fill:#2f2f2f;fill-opacity:1"
-               id="flowSpan3860-9"><flowSpan
-                 style="fill:#3e3e3e;fill-opacity:1"
-                 id="flowSpan3862-4"><flowSpan
-                   style="fill:#3f3f3f;fill-opacity:1"
-                   id="flowSpan3864-4"><flowSpan
-                     style="fill:#474747;fill-opacity:1"
-                     id="flowSpan3866-8"><flowSpan
-                       style="fill:#4d4d4d;fill-opacity:1"
-                       id="flowSpan3868-5"><flowSpan
-                         style="fill:#4e4e4e;fill-opacity:1"
-                         id="flowSpan3870-8"><flowSpan
-                           style="fill:#585858;fill-opacity:1"
-                           id="flowSpan3872-7"><flowSpan
-                             style="fill:#595959;fill-opacity:1"
-                             id="flowSpan3874-4"><flowSpan
-                               style="fill:#6b6b6b;fill-opacity:1"
-                               id="flowSpan3876-6"><flowSpan
-                                 style="fill:#777777;fill-opacity:1"
-                                 id="flowSpan3878-3"><flowSpan
-                                   style="fill:#797979;fill-opacity:1"
-                                   id="flowSpan3880-9"><flowSpan
-                                   style="fill:#a0a0a0;fill-opacity:1"
-                                   id="flowSpan3882-9"><flowSpan
-                                   style="fill:#c7c7c7;fill-opacity:1"
-                                   id="flowSpan3884-8"><flowSpan
-                                   style="fill:#dddddd;fill-opacity:1"
-                                   id="flowSpan3886-8"><flowSpan
-                                   style="fill:#dedede;fill-opacity:1"
-                                   id="flowSpan3888-6"><flowSpan
-                                   style="fill:#fafafa;fill-opacity:1"
-                                   id="flowSpan3890-2"><flowSpan
-                                   style="fill:#ffffff;fill-opacity:1"
-                                   id="flowSpan3892-9"><flowSpan
-   style="font-size:40.7292366px"
-   id="flowSpan3980">Juin 2015 - </flowSpan>Dessin et Scénario : David Revoy </flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowSpan></flowPara></flowRoot>  </g>
+         style="font-size:60.39250946px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3272-6-3-1">Juin 2015 - Dessin et Scénario : David Revoy </flowPara></flowRoot>  </g>
 </svg>
