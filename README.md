@@ -14,8 +14,9 @@ License
 
 ## Translators and correctors :
 
-* French     : David Revoy
 * English    : Alex Gryson
+
+* French     : David Revoy
 
 
 ## Fonts:
