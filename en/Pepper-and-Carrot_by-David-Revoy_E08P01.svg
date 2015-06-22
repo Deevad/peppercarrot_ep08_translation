@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P01.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="899.65762"
-     inkscape:cy="3215.6887"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="0.69960253"
+     inkscape:cx="1933.1822"
+     inkscape:cy="1796.1789"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/PC8/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -74,7 +74,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1653.5271,1764.9028 c 10.2111,-98.1998 119.4843,-157.3816 362.9599,-146.9248 136.1581,5.8477 285.1685,34.6633 272.3956,157.0204 -12.6249,120.9378 -212.0128,139.7849 -287.0971,143.6203 -75.0843,3.8354 -218.9192,-10.5125 -275.7157,-47.5505 -56.7965,-37.0379 -73.9898,-75.7295 -72.5427,-106.1654 z"
+       d="m 1623.5161,1760.7026 c 10.9683,-95.4151 128.3432,-152.9186 389.8706,-142.7584 146.2531,5.6819 306.3115,33.6804 292.5916,152.5677 -13.561,117.5083 -227.7319,135.8209 -308.383,139.5476 -80.6513,3.7266 -235.1504,-10.2144 -296.158,-46.2021 -61.0073,-35.9876 -79.4755,-73.582 -77.9212,-103.1548 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csszzc" />
