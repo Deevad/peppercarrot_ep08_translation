@@ -18,6 +18,8 @@ License
 
 * French     : David Revoy
 
+* Italian    : Carlo Gandolfi
+
 
 ## Fonts:
 
