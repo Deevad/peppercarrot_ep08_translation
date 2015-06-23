@@ -18,6 +18,8 @@ License
 
 * French     : David Revoy
 
+* Russian    : Denis "uncle Night" Prisukhin
+
 * Italian    : Carlo Gandolfi
 
 
@@ -29,6 +31,9 @@ License
 
 * Latin (monster-speech) : DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
 
+* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+
+* Romvel Cyr by Alexander Samburov, [link](http://www.lurex.narod.ru/alex/fonts/fonts.html).
 
 ## Artwork :
 
@@ -43,4 +48,3 @@ Info :
 - Resources added to this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
 
 - Do not edit or propose a commit for the artwork in these repositories. Artwork here are low-resolution proxy files only. The real hi-res layered artwork,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
-
