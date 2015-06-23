@@ -20,6 +20,8 @@ License
 
 * Russian    : Denis "uncle Night" Prisukhin
 
+* Italian    : Carlo Gandolfi
+
 
 ## Fonts:
 
@@ -31,7 +33,7 @@ License
 
 * Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* Romvel Cyr by Alexander Samburov, [link](http://www.lurex.narod.ru/alex/fonts/fonts.html), license is unknown but according to author's site, fonts can be downloaded for free.
+* Romvel Cyr by Alexander Samburov, [link](http://www.lurex.narod.ru/alex/fonts/fonts.html).
 
 ## Artwork :
 
