@@ -33,7 +33,7 @@ License
 
 * Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* Romvel Cyr by Alexander Samburov, [link](http://www.lurex.narod.ru/alex/fonts/fonts.html).
+* RuslanDisplay by [Denis Masharov](https://plus.google.com/106558435145097149719/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Ruslan+Display)
 
 ## Artwork :
 
