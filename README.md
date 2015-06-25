@@ -14,26 +14,45 @@ License
 
 ## Translators and correctors :
 
+* Arabic     : Mahwiii
+
+* Català     : Juan José Segura
+
 * English    : Alex Gryson
 
 * French     : David Revoy
 
+* Italian    : Carlo Gandolfi
+
 * Russian    : Denis "uncle Night" Prisukhin
 
-* Italian    : Carlo Gandolfi
+* Japanese   : guruguru
 
 
 ## Fonts:
 
 * Latin (main): Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* Latin (book&labels) : Robokoz  by Ray Larabie, rlarabie@hotmail.com [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
+* Latin (book&labels): Robokoz  by Ray Larabie, rlarabie@hotmail.com [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 
-* Latin (monster-speech) : DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
+* Latin (monster-speech): DrukaatieBurti  by Kārlis Kalviškis, Zirneklitis on [OFL / SIL Open Font License], [link](http://openfontlibrary.org/en/font/drukaatieburti)
 
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* Cyrilic (main): Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* RuslanDisplay by [Denis Masharov](https://plus.google.com/106558435145097149719/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Ruslan+Display)
+* Cyrilic (monster-speech): RuslanDisplay by [Denis Masharov](https://plus.google.com/106558435145097149719/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Ruslan+Display)
+
+* Japanese (main): rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html), [link] (http://jikasei.me/font/rounded-mplus/about.html)
+
+* Arabic (title): Alhor by Nadim Shaikli [GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
+
+* Arabic (main): Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-normal) 
+
+* Arabic (main): Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
+
+* Arabic (book&labels) : Droid Arabic Kufi By Pascal Zoghbi [Apache License 2.0]( http://www.apache.org/licenses/LICENSE-2.0), [link]( http://www.fontsc.com/font/droid-arabic-kufi)
+
+* Arabic (monster) : Tholoth By Nadim Shaikli [GNU GPL] (http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/tholoth)
+
 
 ## Artwork :
 
