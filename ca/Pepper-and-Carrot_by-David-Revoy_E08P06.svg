@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P06.svg">
@@ -98,30 +98,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1536"
-     inkscape:window-height="803"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.56249128"
      inkscape:cx="1195.4784"
      inkscape:cy="2845.0842"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Lludriga\Documents\pepper\lang-pack_ep08_22-juin_FR-EN\lang\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/ca/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -138,7 +138,7 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(1.252919,0,0,1.0524231,-91.781847,-68.392267)" />
+       transform="matrix(1.3695698,0,0,1.0044518,-117.16241,-63.180644)" />
     <path
        style="color:#000000;fill:#0f0f0f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3018-3);enable-background:accumulate"
        d="m 168.28312,242.56886 c 0,-59.7361 29.8086,-90.5375 118.2404,-96.1379 88.4319,-5.6002 342.7586,-13.9748 381.5097,5.6261 38.751,19.601 38.7901,48.5099 40.7774,87.7117 1.9872,39.2018 -98.62764,105.94484 -187.05944,103.14474 -88.4319,-2.8002 -205.45679,3.54992 -253.15039,-10.45078 -47.6936,-14.0007 -96.34317,-42.29166 -100.31767,-89.89386 z"
@@ -150,7 +150,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(1.1000385,0,0,1.1857741,-4.37257,-191.00634)"><flowRegion
+       transform="matrix(1.1000385,0,0,1.1857741,24.072315,-210.5622)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -161,7 +161,7 @@
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
          id="flowPara3071">Els monštreš del Chaosāh šom àl teu šeŗvei!</flowPara></flowRoot>    <path
        style="fill:#0a0a0a;fill-opacity:1;stroke:none"
-       d="m 711.64391,335.13826 c -16.30238,-21.89161 -27.89514,-35.54924 -41.16681,-37.10481 -13.27137,-1.55556 -28.71087,-4.23539 -39.95559,3.83155 -11.24463,8.06699 -32.57,14.61198 -40.47637,10.27956 -7.90643,-4.33257 -36.46988,-21.00102 -43.45702,-41.53591 -6.98711,-20.53499 -36.78359,15.66953 -36.78359,15.66953 0,0 24.32478,33.46576 30.57134,38.09567 6.24676,4.63 21.78968,22.4213 54.2249,12.37256 32.43506,-10.04895 49.94525,-25.29075 66.15659,-26.38018 16.21125,-1.08949 39.93677,7.97314 50.88655,24.77203 z"
+       d="m 792.56372,334.05842 c -15.72945,-22.30683 -26.96429,-36.26037 -40.19118,-38.15942 -13.22659,-1.89905 -28.59144,-4.97818 -40.04149,2.79457 -11.44995,7.77281 -32.93781,13.76284 -40.72922,9.22693 -7.79147,-4.53606 -35.91326,-21.93929 -42.36577,-42.6484 -6.45248,-20.7092 -37.17741,14.71081 -37.17741,14.71081 0,0 23.44915,34.08503 29.5736,38.8753 6.12465,4.79036 21.20119,22.97857 53.88597,13.77396 32.68465,-9.20483 50.58403,-23.98763 66.81816,-24.65648 16.23405,-0.66891 39.71668,9.00566 50.22734,26.08273 z"
        id="path3137"
        inkscape:connector-curvature="0" />
     <flowRoot

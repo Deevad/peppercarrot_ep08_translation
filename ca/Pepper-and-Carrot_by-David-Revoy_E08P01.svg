@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P01.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1536"
-     inkscape:window-height="803"
+     inkscape:window-width="1680"
+     inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34980127"
-     inkscape:cx="1192.8769"
-     inkscape:cy="396.03935"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.40227146"
+     inkscape:cx="1800.3208"
+     inkscape:cy="992.30597"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Lludriga\Documents\pepper\lang-pack_ep08_22-juin_FR-EN\lang\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/ca/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -74,7 +74,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1623.5161,1760.7026 c 10.9683,-95.4151 128.3432,-152.9186 389.8706,-142.7584 146.2531,5.6819 306.3115,33.6804 292.5916,152.5677 -13.561,117.5083 -227.7319,135.8209 -308.383,139.5476 -80.6513,3.7266 -235.1504,-10.2144 -296.158,-46.2021 -61.0073,-35.9876 -79.4755,-73.582 -77.9212,-103.1548 z"
+       d="m 1623.5229,1748.528 c 11.8062,-87.3434 138.1474,-139.9823 419.6531,-130.6816 157.4255,5.2011 329.7109,30.8311 314.9429,139.6611 -14.597,107.5677 -245.1285,124.3311 -331.9406,127.7427 -86.8123,3.4113 -253.1137,-9.3504 -318.7817,-42.2937 -65.6677,-32.9433 -85.5467,-67.3574 -83.8737,-94.4285 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csszzc" />
@@ -88,16 +88,19 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1546.8007,1398.357)"><flowRegion
+       transform="translate(1539.4239,1391.5395)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
-           width="602.40173"
-           height="310.73996"
+           width="661.57819"
+           height="333.75299"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+           ry="0" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3394">Ja quasi és el meu aniversari i no tinc cap amic</flowPara><flowPara
+         id="flowPara3394">Ja quasi és el meu </flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara2992">aniversari i no tinc cap amic</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara2994">amb qui celebrar-ho...</flowPara></flowRoot>  </g>
 </svg>
