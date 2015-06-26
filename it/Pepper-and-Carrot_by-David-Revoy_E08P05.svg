@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P05.svg">
@@ -246,6 +246,37 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       id="filter3067"
+       inkscape:label="Diffuse light"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Basic diffuse bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3069"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting3071"
+         diffuseConstant="1"
+         surfaceScale="10"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight3073"
+           elevation="25"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite3075"
+         in2="SourceGraphic"
+         k1="1"
+         in="result5"
+         result="result4"
+         operator="arithmetic"
+         k2="0"
+         k3="0.6" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -256,16 +287,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1408"
-     inkscape:window-height="855"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42532422"
-     inkscape:cx="928.71859"
-     inkscape:cy="1621.3774"
-     inkscape:window-x="1"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.64686497"
+     inkscape:cx="1263.3441"
+     inkscape:cy="2895.8167"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -284,13 +315,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep08_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -357,8 +388,8 @@
          id="flowPara3811" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-8"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.8465116;fill:#aa7655;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.94719422,-0.22266421,0.23893864,1.026553,1394.9943,-38.907074)"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.62325581;fill:#aa7655;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi;filter:url(#filter3067)"
+       transform="matrix(0.78220926,-0.23284981,0.25418348,0.82515944,1431.805,32.170889)"><flowRegion
          id="flowRegion2989-5-4-5-4"><rect
            id="rect2991-7-9-6-3"
            width="602.40173"
