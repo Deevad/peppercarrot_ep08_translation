@@ -21,6 +21,8 @@ License
 
 * French     : David Revoy
 
+* German     : Alexandra Jordan, Helmar Suschka
+
 * Italian    : Carlo Gandolfi
 
 * Russian    : Denis "uncle Night" Prisukhin
@@ -44,7 +46,7 @@ License
 
 * Arabic (title): Alhor by Nadim Shaikli [GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
 
-* Arabic (main): Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-normal) 
+* Arabic (main): Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-normal)
 
 * Arabic (main): Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
 
