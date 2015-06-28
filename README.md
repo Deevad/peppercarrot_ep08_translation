@@ -1,6 +1,5 @@
 # Pepper&Carrot translation project
 # Episode 08 : Pepper's Birthday Party
-# WORK-IN-PROGRESS - not published
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
