@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P06.svg"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,30 +101,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3977414"
-     inkscape:cx="1566.1875"
-     inkscape:cy="258.09506"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1266.4878"
+     inkscape:cy="814.27394"
+     inkscape:window-x="1276"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\Peter\PepperAndCarot\peppercarrot_ep08_translation-master\nl\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep08_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,7 +185,7 @@
          id="flowPara3354">Wie wenšt u dāt we</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3052"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="matrix(1.0591558,0,0,1.1455826,-95.377294,-472.97969)"><flowRegion
          id="flowRegion3054"><rect
            id="rect3056"
@@ -195,7 +195,7 @@
            y="568.00012"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3058"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti">àànvallen ? ...</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">àànvallen? ...</flowPara></flowRoot>    <path
        style="fill:#0f0f0f;fill-opacity:1;stroke:none"
        d="m 237.10489,237.06424 c 2.80761,36.52658 -11.35308,47.35795 -7.52941,55.30478 3.82367,7.94683 15.88148,11.5559 18.34663,1.82857 2.46515,-9.72731 -8.73416,-30.03299 -4.16613,-54.20072"
        id="path3060"
@@ -223,7 +223,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1111.6585,3149.9063)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
@@ -231,9 +231,9 @@
            height="56.977448"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">Aflevering 8: Pepper's Verjaardagsfeest</flowPara></flowRoot>    <flowRoot
+         id="flowPara3272-6">Aflevering 8: Peppers verjaardagsfeest</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1908.3709,2966.1319)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6"
