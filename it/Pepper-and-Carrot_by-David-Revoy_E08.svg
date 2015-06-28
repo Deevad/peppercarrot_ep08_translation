@@ -154,11 +154,11 @@
   <image
      sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep08_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993-2"
-         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 8 : Il compleanno di Pepper</flowPara></flowRoot>  </g>
+         style="font-size:68.8433075px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episodio 8 : Il compleanno di Pepper</flowPara></flowRoot>  </g>
 </svg>
