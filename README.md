@@ -17,6 +17,8 @@ License
 
 * Català     : Juan José Segura
 
+* Dutch      : Peter Moonen
+
 * English    : Alex Gryson
 
 * French     : David Revoy
