@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="2479"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P07.svg">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.42773947"
-     inkscape:cx="1329.2895"
-     inkscape:cy="125.85823"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1263.8291"
+     inkscape:cy="747.7321"
+     inkscape:window-x="1276"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -65,13 +65,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep08_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2479"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +98,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3027"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.2334095,0,0,1.2851851,-461.43013,-163.77172)"><flowRegion
          id="flowRegion3029"><rect
            id="rect3031"
@@ -108,10 +108,10 @@
            y="224.47961"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3033" /><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara4729">Pepper&amp;Carrot is geheel vrij en open-bron door de hulp van mijn patrons.</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara4103">Voor deze aflevering bedank ik mijn 354 patrons :</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         id="flowPara4103">Voor deze aflevering bedank ik mijn 354 patrons:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#a72f14;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
@@ -161,7 +161,7 @@
          id="flowPara3233-6" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.78840156,0,0,0.81820527,246.92547,2040.7267)"><flowRegion
          id="flowRegion3029-9-3-5-1-2"><rect
            id="rect3031-9-1-6-8-7"
@@ -171,9 +171,9 @@
            y="219.33444"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3033-3-0-2-4-3" /><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara3278">Open-bron: alle bronbestanden met lagen en lettertypen zijn beschikbaar op de officiele site</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
+         id="flowPara3278">Open-bron: alle bronbestanden met lagen en lettertypen zijn beschikbaar op de officiële site</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3233-6-14" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2-8-6-3"

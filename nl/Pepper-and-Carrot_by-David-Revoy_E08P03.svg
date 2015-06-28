@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P03.svg"
@@ -42,15 +42,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1600"
+     inkscape:window-height="832"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.48912285"
-     inkscape:cx="1503.7138"
-     inkscape:cy="2487.6605"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1626.3824"
+     inkscape:cy="569.94187"
+     inkscape:window-x="1276"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -59,13 +59,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\Peter\PepperAndCarot\peppercarrot_ep08_translation-master\nl\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep08_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -94,7 +94,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(706.17045,109.24698)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -102,30 +102,28 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3283">En dat was het ...</flowPara></flowRoot>    <path
+         id="flowPara3283">En dat was het...</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 893.18204,1249.4794 c -1.31625,-92.8012 48.93756,-123.2246 328.94306,-122.581 247.802,0.5694 304.9078,25.9815 303.803,115.0131 -1.4771,119.0323 -97.3249,131.0323 -297.3708,132.9095 -200.046,1.8773 -332.34479,4.0749 -335.37526,-125.3416 z"
+       d="m 882.96062,1256.7276 c -1.36728,-87.4544 50.83491,-116.125 341.69648,-115.5184 257.4095,0.5366 316.7294,24.4845 315.5817,108.3865 -1.5343,112.1742 -101.0983,123.4829 -308.9001,125.2519 -207.802,1.7691 -345.23011,3.8401 -348.37808,-118.12 z"
        id="path3270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(1.0128837,0,0,1.0383939,780.69297,888.09822)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0128837,0,0,1.0383939,784.78192,896.27612)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3287">... alles is klaar, alles wat</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3293">we nog moeten doen is wachten op hun komst</flowPara></flowRoot>  </g>
+         id="flowPara3293">... alles is klaar, we hoeven alleen nog te wachten tot ze er zijn</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
