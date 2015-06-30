@@ -31,6 +31,7 @@ License
 
 * Japanese   : guruguru
 
+* Mexicano   : RJ Quiralta
 
 ## Fonts:
 
