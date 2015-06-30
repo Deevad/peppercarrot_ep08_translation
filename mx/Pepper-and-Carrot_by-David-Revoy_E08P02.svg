@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="1300.9616"
+     inkscape:cx="847.9616"
      inkscape:cy="2494.2042"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
@@ -56,21 +56,21 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep08_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
+       sodipodi:absref="/home/Kdes/Arts_Crafts/2015/Translation P&amp;C/GIT/peppercarrot_ep08_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1125.4743,760.10683 c 0.7112,-30.09829 17.2908,-56.13105 44.6991,-69.15287 30.2118,-14.35369 89.0394,-12.04246 99.7776,-9.68907 10.738,2.35355 102.4318,-1.13736 124.9525,1.94273 20.1781,2.75971 78.0955,34.1256 75.167,89.43253 -2.9287,55.30693 -46.8573,72.19211 -91.7622,75.72236 -44.9049,3.53025 -134.6611,1.95972 -158.0106,-0.80543 -25.7788,-3.05283 -93.5339,-32.79953 -93.7146,-95.31632 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1145.4743,760.10683 c 0.6369,-30.09829 15.485,-56.13105 40.0308,-69.15287 27.0566,-14.35369 79.7404,-12.04246 89.3571,-9.68907 9.6165,2.35355 91.734,-1.13736 111.9028,1.94273 18.0707,2.75971 69.9393,34.1256 67.3167,89.43253 -2.6229,55.30693 -41.9637,72.19211 -82.1788,75.72236 -40.2151,3.53025 -120.5974,1.95972 -141.5083,-0.80543 -23.0865,-3.05283 -83.7655,-32.79953 -83.9273,-95.31632 z"
        id="path5034"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscsssscc" />
@@ -121,7 +121,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3138">Buena idea</flowPara><flowPara
+         id="flowPara3138">¡Buena idea</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3380">Carrot!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
