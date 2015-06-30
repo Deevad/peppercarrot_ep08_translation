@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="1288.7638"
+     inkscape:cx="1320.9324"
      inkscape:cy="2973.3752"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-x="1918"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep08_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       sodipodi:absref="/home/Kdes/Arts_Crafts/2015/Translation P&amp;C/GIT/peppercarrot_ep08_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -87,7 +87,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3013">...que ellas vendrán</flowPara></flowRoot>    <path
+         id="flowPara3013">...que ellas vendrán.</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 884.66591,387.80298 c 0.1499,-26.20227 54.4947,-108.92807 210.69989,-100.78914 83.6718,4.35958 199.1512,31.20529 199.9623,100.46482 1.1505,98.25251 -164.2075,95.29034 -192.2633,98.20315 -28.0558,2.91294 -118.69886,3.31645 -165.86209,-21.44955 -40.20148,-21.11024 -52.37852,-40.7333 -52.5368,-76.42928 z"
        id="path4546-0"
