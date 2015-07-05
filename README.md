@@ -29,11 +29,13 @@ License
 
 * Italian    : Carlo Gandolfi
 
-* Russian    : Denis "uncle Night" Prisukhin
-
 * Japanese   : guruguru
 
 * Mexicano   : RJ Quiralta
+
+* Russian    : Denis "uncle Night" Prisukhin
+
+* Slovak     : talime
 
 
 ## Artwork :
