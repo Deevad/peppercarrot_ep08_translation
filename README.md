@@ -37,6 +37,8 @@ License
 
 * Slovak     : talime
 
+* Portuguese : Frederico Batista
+
 
 ## Artwork :
 
