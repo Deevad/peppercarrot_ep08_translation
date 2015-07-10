@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 08 : Pepper's Birthday Party
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -39,6 +39,7 @@ License
 
 * Portuguese : Frederico Batista
 
+* Chinese    : Ran Zhuang
 
 ## Artwork :
 
@@ -49,7 +50,7 @@ License
 
 - Documentation : Translation/Correction full how-to documentation can be read [on the official website here](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction).
 
-- Lincense agreement : Authors of every translations or contributions to this project accept to release this translation work under the [CC-By license](https://creativecommons.org/licenses/by/3.0/).
+- License agreement : Authors of every translations or contributions to this project accept to release this translation work under the [CC-By license](https://creativecommons.org/licenses/by/3.0/).
 
 - Graphics : Do not edit or propose a commit for the artwork in these repositories ( gfx_ PNG files ). Artwork here are low-resolution proxy files only. The real hi-res layered artwork, kra files, are [available here](http://www.peppercarrot.com/en/static6/sources) and are too heavy to be shared on Github. Do a modification, host them, then send me the link to them.
 
