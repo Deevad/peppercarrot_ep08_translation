@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P06.svg">
@@ -98,15 +98,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1918"
+     inkscape:window-height="1023"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1319.3582"
      inkscape:cy="302.98293"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-x="2"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -223,7 +223,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1202.1696,3147.3921)"><flowRegion
+       transform="translate(1082.1696,3147.3921)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
            width="1041.0548"
@@ -232,8 +232,8 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">Rakontaĵo 8a: La naskiĝtago de Pipro</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1930.9987,2966.1319)"
+         id="flowPara3272-6">Rakontaĵo 8a: La Naskiĝtago de Pipro</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1910.9987,2966.1319)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
@@ -245,7 +245,7 @@
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1">FINO</flowPara></flowRoot>    <flowRoot
+         id="flowPara4358-7-1">~ LA FINO ~</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -258,5 +258,5 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:60.39250946px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3272-6-3-1">Junion 2015 - Desegno kaj Scenaro: David Revoy. Traduko: libre fan </flowPara></flowRoot>  </g>
+         id="flowPara3272-6-3-1">Junio 2015 - Desegno kaj Scenaro: David Revoy. Traduko: libre fan </flowPara></flowRoot>  </g>
 </svg>
