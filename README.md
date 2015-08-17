@@ -17,6 +17,8 @@ License
 
 * Català     : Juan José Segura
 
+* Chinese    : Ran Zhuang
+
 * Dutch      : Peter Moonen
 
 * English    : Alex Gryson
@@ -39,13 +41,13 @@ License
 
 * Mexicano   : RJ Quiralta
 
+* Portuguese : Frederico Batista
+
 * Russian    : Denis "uncle Night" Prisukhin
 
 * Slovak     : talime
 
-* Portuguese : Frederico Batista
-
-* Chinese    : Ran Zhuang
+* Ukrainian  : Denis "uncle Night" Prisukhin
 
 ## Artwork :
 
