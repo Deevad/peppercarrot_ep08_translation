@@ -49,6 +49,8 @@ License
 
 * Slovak: talime
 
+* Swedish: Quiphius
+
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 
