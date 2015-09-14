@@ -15,6 +15,8 @@ License
 
 * Arabic: Mahwiii
 
+* Bengali: Hulo Biral the Tomcat
+
 * Català: Juan José Segura
 
 * Chinese: Ran Zhuang
