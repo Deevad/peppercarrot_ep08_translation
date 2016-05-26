@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P06.svg">
@@ -88,6 +88,38 @@
          xChannelSelector="R"
          in="SourceGraphic" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4352">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4354" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4356" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur4358" />
+      <feOffset
+         dx="2"
+         dy="2"
+         result="offset"
+         id="feOffset4360" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4362" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -98,15 +130,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1381"
-     inkscape:window-height="876"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000001"
-     inkscape:cx="1319.3582"
-     inkscape:cy="540.74615"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
+     inkscape:zoom="0.3977414"
+     inkscape:cx="1205.5516"
+     inkscape:cy="492.42087"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -115,8 +147,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep08_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       sodipodi:absref="F:\peppercarrot_ep08_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        y="0"
        x="0"
        id="image10"
@@ -138,30 +170,30 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(1.0376604,0,0,1.0073751,-25.96826,-61.304156)" />
+       transform="matrix(1.1069502,0,0,1.0073751,-57.083876,-67.304156)" />
     <path
        style="color:#000000;fill:#0f0f0f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3018-3);enable-background:accumulate"
        d="m 168.28312,242.56886 c 0,-59.7361 29.8086,-90.5375 118.2404,-96.1379 88.4319,-5.6002 342.7586,-13.9748 381.5097,5.6261 38.751,19.601 38.7901,48.5099 40.7774,87.7117 1.9872,39.2018 -98.62764,105.94484 -187.05944,103.14474 -88.4319,-2.8002 -205.45679,3.54992 -253.15039,-10.45078 -47.6936,-14.0007 -96.34317,-42.29166 -100.31767,-89.89386 z"
        id="path3986-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(0.88274551,0.02358364,-0.02100242,1.0225268,1546.4256,-83.091662)" />
+       transform="matrix(1.0193712,0.02263839,-0.02425304,0.98154325,1500.2223,-62.918437)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(1.1000385,0,0,1.1857741,-34.37257,-207.33526)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.1000385,0,0,1.1857741,-34.37257,-213.00634)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
-         id="flowPara3030-8">Euzhviled Kereustl</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
-         id="flowPara3071">en ho kourc'hemenn!</flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3030-8">|vi -gri ^vi -tfo /glu</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3071">^:i -bei ji</flowPara></flowRoot>    <path
        style="fill:#0a0a0a;stroke:none;fill-opacity:1"
        d="m 703.64391,313.13826 c -16.30238,-21.89161 -27.89514,-35.54924 -41.16681,-37.10481 -13.27137,-1.55556 -28.71087,-4.23539 -39.95559,3.83155 -11.24463,8.06699 -32.57,14.61198 -40.47637,10.27956 -7.90643,-4.33257 -36.46988,-21.00102 -43.45702,-41.53591 -6.98711,-20.53499 -36.78359,15.66953 -36.78359,15.66953 0,0 24.32478,33.46576 30.57134,38.09567 6.24676,4.63 21.78968,22.4213 54.2249,12.37256 32.43506,-10.04895 49.94525,-25.29075 66.15659,-26.38018 16.21125,-1.08949 39.93677,7.97314 50.88655,24.77203 z"
        id="path3137"
@@ -169,23 +201,23 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(1.0294216,0,0,1.120441,1500.8511,-186.81986)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(1.0294216,0,0,1.120441,1504.9607,-181.80663)"><flowRegion
          id="flowRegion2989-5-4-5-0"><rect
            id="rect2991-7-9-6-9"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
-         id="flowPara3030-8-5">Piv a rankomp</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
-         id="flowPara3071-8" /></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3354">i mi'a bredi lo ka selfu do </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3971">i ei mi'a                     </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3052"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       transform="matrix(1.0591558,0,0,1.1455826,-116.93873,-490.32184)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(1.0591558,0,0,1.1455826,-85.377294,-480.97969)"><flowRegion
          id="flowRegion3054"><rect
            id="rect3056"
            width="469.99997"
@@ -194,7 +226,7 @@
            y="568.00012"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3058"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti">argadiñ?...</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">      gunta ma</flowPara></flowRoot>    <path
        style="fill:#0f0f0f;fill-opacity:1;stroke:none"
        d="m 237.10489,237.06424 c 2.80761,36.52658 -11.35308,47.35795 -7.52941,55.30478 3.82367,7.94683 15.88148,11.5559 18.34663,1.82857 2.46515,-9.72731 -8.73416,-30.03299 -4.16613,-54.20072"
        id="path3060"
@@ -206,12 +238,12 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#0f0f0f;fill-opacity:1;stroke:none"
-       d="m 698.31971,175.70009 c 2.09267,31.76133 -8.46208,41.17964 -5.61209,48.08972 2.85,6.91009 11.83736,10.04832 13.67477,1.59002 1.83741,-8.45829 -6.51006,-26.11489 -3.10525,-47.1297"
+       d="m 698.31971,191.70009 c 2.09267,31.76133 -8.46208,41.17964 -5.61209,48.08972 2.85,6.91009 11.83736,10.04832 13.67477,1.59002 1.83741,-8.45829 -6.51006,-26.11489 -3.10525,-47.1297"
        id="path3060-9"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#0f0f0f;fill-opacity:1;stroke:none"
-       d="m 2043.5714,249.77335 c 4.4929,36.35778 -9.152,47.83208 -4.9652,55.59369 4.1869,7.7616 16.3986,10.8095 18.4116,0.97863 2.0129,-9.83085 -10.113,-29.5972 -6.6669,-53.95023"
+       d="m 2087.5714,253.77335 c 4.4929,36.35778 -9.152,47.83208 -4.9652,55.59369 4.1869,7.7616 16.3986,10.8095 18.4116,0.97863 2.0129,-9.83085 -10.113,-29.5972 -6.6669,-53.95023"
        id="path3060-5"
        inkscape:connector-curvature="0" />
   </g>
@@ -222,41 +254,41 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(1202.1696,3147.3921)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1146.1696,3151.6487)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
-           width="1041.0548"
-           height="56.977448"
-           x="120.55251"
+           width="1330.1875"
+           height="56.977547"
+           x="-168.58008"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">Rann 8: Gouel deiz-ha-bloaz Pepper</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1930.9987,2966.1319)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="flowPara3272-6">i 8moi pagbu fa lu detri lonu jbena fa la peper li'u</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.90617713,0,-0.22078013,1.6225798,1884.9987,2966.1319)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="flowPara4358-7-1">ECHU</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara4358-7-1">i fanmo</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(0.66233381,0,0,0.66233381,411.82873,3169.3198)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.26861858px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4352)"
+       transform="translate(115.35042,0)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
-           width="2350.8157"
-           height="72.357925"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:60.39250946px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3272-6-3-1">Mezheven 2015 - Tresadennoù ha Senario : David Revoy </flowPara></flowRoot>  </g>
+           width="2247.9729"
+           height="59.403797"
+           x="0.58813167"
+           y="3345.4185"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:40px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3272-6-3-1">i la'o zoi. www.peppercarrot.com .zoi i de'i nanca bu 2015 masti bu 4 pu ku la'o gy.David Revoy.gy. finti i la gleki cu fanva</flowPara></flowRoot>  </g>
 </svg>

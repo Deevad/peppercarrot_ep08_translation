@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P03.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1381"
-     inkscape:window-height="876"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2630065"
-     inkscape:cx="1143.8321"
-     inkscape:cy="1282.2099"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
+     inkscape:zoom="0.48912285"
+     inkscape:cx="1503.7138"
+     inkscape:cy="506.15781"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -56,8 +56,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep08_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
+       sodipodi:absref="F:\peppercarrot_ep08_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
        width="2481"
        height="3503"
        id="image10"
@@ -76,7 +76,7 @@
        sodipodi:nodetypes="csccscccsc" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 979.43934,412.39143 c -6.22899,-51.39192 67.33336,-71.25368 155.61136,-69.82774 88.2777,1.42594 169.9305,18.76691 167.2203,63.99004 -2.7103,45.22312 -82.2126,62.58864 -158.751,60.5312 -76.5387,-2.05745 -157.85168,-3.30159 -164.08066,-54.6935 z"
+       d="m 891.89214,411.49246 c -9.05889,-52.23413 97.92358,-72.42139 226.30716,-70.97208 128.3831,1.44931 247.1315,19.07446 243.19,65.03871 -3.9416,45.96423 -119.5625,63.61434 -230.873,61.52318 -111.311,-2.09117 -229.5653,-3.35569 -238.62416,-55.58981 z"
        id="path3565"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zszsz" />
@@ -91,40 +91,38 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(718.43731,109.24698)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(712.30388,107.2025)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Ha setu ...</flowPara></flowRoot>    <path
+         id="flowPara3030-8">i ca'e cfari</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 936.92481,1245.3627 c 1.57333,-68.9626 43.36311,-129.9096 291.47329,-129.2859 219.5749,0.5519 269.7238,59.6399 269.1969,121.9515 -0.6463,76.4118 -82.1294,132.9817 -259.3881,134.801 -177.2588,1.8194 -302.70628,-27.5133 -301.28209,-127.4666 z"
+       d="m 893.18204,1249.4794 c -1.31625,-92.8012 48.93756,-123.2246 328.94306,-122.581 247.802,0.5694 304.9078,25.9815 303.803,115.0131 -1.4771,119.0323 -97.3249,131.0323 -297.3708,132.9095 -200.046,1.8773 -332.34479,4.0749 -335.37526,-125.3416 z"
        id="path3270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(793.30071,890.20133)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(787.16728,892.37923)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8-1">... prest eo pep tra,</flowPara><flowPara
+         id="flowPara3030-8-1">i ro da bredi i sa'u ca</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3065">n'eus ken nemet gortoz</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3001">anezhe.</flowPara></flowRoot>  </g>
+         id="flowPara3065">sarcu fa lo nu mi'a denpa lo nu lo te makfa cu klama</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
