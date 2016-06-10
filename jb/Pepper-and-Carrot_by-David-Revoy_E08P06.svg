@@ -130,30 +130,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3977414"
      inkscape:cx="1205.5516"
-     inkscape:cy="492.42087"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cy="291.28516"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep08_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep08_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -193,7 +193,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          id="flowPara3030-8">|vi -gri ^vi -tfo /glu</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3071">^:i -bei ji</flowPara></flowRoot>    <path
+         id="flowPara3071">^:i -bei \ji</flowPara></flowRoot>    <path
        style="fill:#0a0a0a;stroke:none;fill-opacity:1"
        d="m 703.64391,313.13826 c -16.30238,-21.89161 -27.89514,-35.54924 -41.16681,-37.10481 -13.27137,-1.55556 -28.71087,-4.23539 -39.95559,3.83155 -11.24463,8.06699 -32.57,14.61198 -40.47637,10.27956 -7.90643,-4.33257 -36.46988,-21.00102 -43.45702,-41.53591 -6.98711,-20.53499 -36.78359,15.66953 -36.78359,15.66953 0,0 24.32478,33.46576 30.57134,38.09567 6.24676,4.63 21.78968,22.4213 54.2249,12.37256 32.43506,-10.04895 49.94525,-25.29075 66.15659,-26.38018 16.21125,-1.08949 39.93677,7.97314 50.88655,24.77203 z"
        id="path3137"
