@@ -15,7 +15,10 @@
    inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P05.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P05.svg"
+   inkscape:export-filename="/home/stefan/Documents/Pepper&amp;Carrot/Rann 08/Pepper-and-Carrot_by-David-Revoy_E0805.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -292,8 +295,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60835002"
-     inkscape:cx="1420.4913"
-     inkscape:cy="1909.0064"
+     inkscape:cx="1147.9266"
+     inkscape:cy="157.20148"
      inkscape:window-x="59"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -308,6 +311,10 @@
        orientation="0,1"
        position="708.69563,3399.9999"
        id="guide3080" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="378.07182,3167.5843"
+       id="guide3087" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -315,7 +322,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/stefan/Dropbox/Pepper&amp;Carrot/peppercarrot_ep08_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep08_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
        width="2481"
        height="3503"
@@ -362,11 +369,11 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3009">ober kement-se din?!!</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3011">din-  !!!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3011">Din-     !!!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-0"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="matrix(1.2147869,0,0,1.2147869,-139.78768,-40.854418)"><flowRegion
+       transform="matrix(1.2147869,0,0,1.2147869,-113.48704,-40.854418)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
@@ -417,7 +424,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3011-2">... Peogwir ne c'hallan ket</flowPara><flowPara
+         id="flowPara3011-2">Peogwir ne c'hallan ket</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3891">kontañ warne!</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
