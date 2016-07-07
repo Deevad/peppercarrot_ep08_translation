@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P02.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000002"
-     inkscape:cx="1079.7364"
-     inkscape:cy="2810.2042"
+     inkscape:cx="1356.9103"
+     inkscape:cy="3273.2477"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Production/Webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep08_Pepper-s-Birthday-Party/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,7 +111,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(878.68424,442.69913)"><flowRegion
          id="flowRegion2989-5-4-5-1"><rect
            id="rect2991-7-9-6-6"
@@ -119,11 +119,11 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3030-8">Bonne idée</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3138">Carotte!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3138">Carrot!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3121"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
