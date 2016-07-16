@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="1498.6999"
-     inkscape:cy="494.04073"
+     inkscape:cx="1216.1999"
+     inkscape:cy="924.04071"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep08_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -80,8 +80,8 @@
        id="path4496"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 83.843043,291.56417 c -36.6143,-43.70542 -32.6914,-128.93093 -22.2301,-148.59835 10.4612,-19.6674 24.8453,-49.168488 74.536197,-49.168488 49.6908,0 394.9111,-20.760076 445.9096,25.130598 50.9984,45.89066 49.6908,125.6529 5.2307,179.19198 -44.4603,53.53908 -282.4531,42.61276 -282.4531,42.61276 0,0 -164.7642,6.55582 -220.993297,-49.1685 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 88.843043,294.06417 c -36.6143,-43.70542 -32.6914,-128.93093 -22.2301,-148.59835 10.4612,-19.6674 24.8453,-49.168488 74.536197,-49.168488 49.6908,0 394.9111,-20.760076 445.9096,25.130598 50.9984,45.89066 49.6908,125.6529 5.2307,179.19198 -44.4603,53.53908 -282.4531,42.61276 -282.4531,42.61276 0,0 -164.7642,6.55582 -220.993297,-49.1685 z"
        id="path3992"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -99,9 +99,9 @@
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara3385">i u'a cpedu fi lo</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3696">te makfa poi mi'o</flowPara><flowPara
+         id="flowPara3696">te makfa poi mi'o pu</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3698">pu penmi la komonan</flowPara></flowRoot>    <path
+         id="flowPara3698">penmi ke'a la komonan</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1231.9477,620.44708 c 31.91,16.91037 42.2081,25.03965 37.6619,73.10616 -4.5463,48.06651 11.3934,47.51048 11.3934,47.51048 l 18.2935,-27.6155 c 0,0 3.3401,-102.44406 -67.3488,-93.00114 z"
        id="path3072"
