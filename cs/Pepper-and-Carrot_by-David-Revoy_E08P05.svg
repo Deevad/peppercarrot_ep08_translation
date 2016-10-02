@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P05.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4375-4-1-1-15-1-3"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4377-7-9-0-4-4-4"
+         flood-opacity="0.90476190476190477"
+         flood-color="rgb(250,62,62)"
+         result="flood" />
+      <feComposite
+         id="feComposite4379-3-8-8-6-0-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4393-1-0-49-8-2-7"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4385-9-5-7-2-1-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4005"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4007"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4009"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4011"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4013"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4015"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4017"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4019"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4021"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4023"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4025"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4027"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4029"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4031"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4033"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4035"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4037"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4039"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4041"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4043"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4045"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4047"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4049"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4051"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4053"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4055"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4057"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4059"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4061"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4063"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4065"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood4067"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4069"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology4071"
+         operator="dilate"
+         radius="0.59999999999999998"
+         result="result3" />
+      <feComposite
+         id="feComposite4073"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3068"
+       inkscape:label="Diffuse light"
+       inkscape:menu="ABCs"
+       inkscape:menu-tooltip="Basic diffuse bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3070"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting3072"
+         diffuseConstant="1"
+         surfaceScale="10"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight3074"
+           elevation="25"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite3076"
+         in2="SourceGraphic"
+         k1="1"
+         in="result5"
+         result="result4"
+         operator="arithmetic"
+         k2="0"
+         k3="0.6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.526013"
+     inkscape:cx="1557.507"
+     inkscape:cy="3038.3387"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="102.49375,3567.4437"
+       id="guide3066" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="438.07811,3402.1312"
+       id="guide3068" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\Documents and Settings\Katerina\Plocha\Feferonka a Karotka\Episode 8\cs\..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P05.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1889.0397,1689.3949 c -18.4523,28.3798 -51.1226,88.4968 -53.6964,103.6923 24.9455,9.8716 63.3606,38.7994 61.4454,43.4826 -1.9154,4.6832 -64.3114,57.1793 -62.1183,64.6368 2.1932,7.4574 17.4097,29.1871 26.1857,34.615 -23.9099,-18.6352 -40.7903,-34.5159 -40.9424,-46.0736 -0.5159,-7.819 48.671,-48.3166 52.2072,-50.9091 -18.4319,-14.9363 -59.2654,-41.5126 -63.9461,-49.6536 1.5251,-11.9193 7.4437,-57.7273 34.6061,-108.1162 27.1625,-50.3889 46.2588,8.3258 46.2588,8.3258 z"
+       id="path5901"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccsc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="M 725.34006,530.36218 C 684.86067,477.4857 637.08437,432.47351 605.08297,370.45983 l -1.93065,60.12393 c -19.55729,-39.88053 -12.25468,-19.85718 -26.30204,-52.99628 l -16.60566,52.01374 C 547.12587,340.7191 536.19365,290.21895 530.29466,229.18005 l -96.37555,131.68074 c 44.13022,37.42349 93.05037,64.7993 131.79269,113.52451 l 14.87189,-32.92432 c 15.38358,14.25531 23.06145,20.99813 35.87694,39.89871 l 8.52686,-44.29402 z"
+       id="path4032"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="M 103.40507,69.914471 88.985429,67.55805 92.378302,89.551258 C 69.56226,90.744649 57.674628,83.841937 41.48588,80.125617 l 25.446158,28.276803 -4.241007,7.85473 c 4.131292,4.59268 10.365026,7.72509 11.874886,14.13847 -11.525838,3.99661 -19.812671,3.99396 -29.34454,5.52856 8.968844,5.3114 16.435874,11.45711 21.710661,18.82094 l -30.535408,12.56743 27.988928,10.99482 c -21.0524,18.07976 -47.512552,29.48233 -72.0957302,43.20261 l 87.3653482,-6.28385 -13.571263,14.13846 c 8.732096,7.35867 7.96042,3.71622 11.874885,5.49834 1.906282,5.2957 -30.033735,27.31455 -27.142652,25.135 3.392881,-0.78551 32.231911,-3.92744 32.231911,-3.92744 0,0 -25.446285,21.9932 -22.053403,21.9932 3.392755,0 31.383648,-5.49832 31.383648,-5.49832 l -9.330245,21.20769 -18.239054,8.65382 -25.066919,23.91731 c 9.489322,-1.5513 13.97867,1.17689 10.604976,10.34605 -22.831658,32.64899 8.320163,61.09678 13.920492,72.2121 53.903268,-61.04083 54.109938,-66.03019 73.132928,-79.50756 17.92964,13.64495 18.60288,12.75655 31.31654,34.28495 9.17835,-13.94465 19.7768,-19.53195 33.92829,-27.49141 4.41683,8.2291 4.44642,10.13585 5.93751,18.85127 4.6146,-6.56422 6.66097,-12.27148 25.44615,-23.56409 0.65965,10.31055 0.58072,9.94258 0,24.34961 19.24126,-17.44199 18.98088,-17.37664 33.08017,-28.27694 3.70713,44.84102 6.46492,61.70384 7.39176,101.87443 16.26079,-27.04238 26.18854,-48.0204 50.2863,-87.73596 4.83583,13.58397 5.3049,16.67899 3.31513,33.1769 7.45889,-13.40646 7.95656,-17.29575 16.19377,-30.82049 5.52707,7.44161 5.21548,16.05214 2.54463,25.13501 5.20498,-11.71077 9.0526,-23.64801 23.74977,-33.77513 14.95802,7.95363 15.52062,19.50978 17.8124,30.63321 -0.7251,-14.21537 4.51931,-23.94902 16.96414,-28.2768 28.26734,22.41609 65.19962,23.89027 79.00913,53.3071 -5.35628,-30.94602 -30.73027,-35.07081 -20.48281,-62.73274 9.61301,-2.49054 19.22602,2.49088 28.83904,9.42564 l -0.6911,-31.56278 35.62478,13.39879 -20.51418,-21.89498 c 14.80267,-2.33497 36.82796,4.39033 55.98183,7.85473 l -10.17851,-21.20768 c 8.63574,0.79268 23.35319,9.10724 37.32116,16.49487 -17.16331,-20.28681 -31.60093,-33.69111 -30.53553,-52.62642 l 39.01755,3.92733 c -15.28967,-14.11877 -34.49948,-24.60733 -45.1965,-42.97891 l 34.16985,-1.79277 -32.23191,-23.5641 25.44615,-13.35295 -20.35688,-3.14192 33.92828,-28.27681 -44.95506,-2.3564 54.28532,-51.05551 -58.42954,-4.079634 0.75135,-21.84076 -34.77642,26.705904 34.77642,-92.6852648 C 518.07193,26.876801 496.42237,53.425898 458.32307,77.316547 l -12.24792,-9.307553 -13.56545,4.820147 3.39275,-26.478663 -50.04418,32.204118 5.08925,-14.923848 -15.26776,14.138458 3.39276,-19.636781 -26.29441,23.564092 2.42093,-20.53134 -12.59944,13.462107 -3.87971,-12.900289 -14.78082,8.187476 C 319.49163,35.877502 327.13356,1.8405343 332.42108,-32.196432 315.06746,6.7678846 293.02902,42.013699 263.71626,71.485483 L 254.38598,56.566908 242.75255,70.361866 231.00134,52.530316 213.3088,73.838345 C 199.31762,57.605303 191.16894,47.659553 185.68115,31.426518 c 2.70643,15.213746 4.67418,25.433824 0.72643,42.188014 -51.64866,-25.651109 -50.10244,-27.938569 -69.43124,-42.188014 -5.29643,18.315239 -10.57445,24.413404 -13.57127,38.487953 z"
+       id="path4024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-98.651436,-139.5026)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3362">Jak mi to  </flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3426">mohli udělat?!?</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3011">       !!!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.2147869,0,0,1.2147869,-222.9044,-85.679104)"><flowRegion
+         id="flowRegion2989-5-4-5-1"><rect
+           id="rect2991-7-9-6-4"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:italic;font-weight:bold;font-size:48px;-inkscape-font-specification:'Lavi Bold Italic';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:3.15775537;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara3030-8-7">Mně</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3805"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion3807"><rect
+           id="rect3809"
+           width="371.73911"
+           height="402.17389"
+           x="1565.2173"
+           y="587.78271" /></flowRegion><flowPara
+         id="flowPara3811" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.6465116;fill:#bf987f;fill-opacity:1;stroke:none;filter:url(#filter3068)"
+       transform="matrix(0.78241194,-0.29421075,0.18561971,0.77470842,1455.5711,56.228345)"><flowRegion
+         id="flowRegion2989-5-4-5-4"><rect
+           id="rect2991-7-9-6-3"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#bf987f;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#bf987f;fill-opacity:1"
+         id="flowPara3830">Přivolání</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#bf987f;fill-opacity:1"
+         id="flowPara3434">démonů</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#bf987f;fill-opacity:1"
+         id="flowPara3436">CHAOSU</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;fill:#bf987f;fill-opacity:1"
+         id="flowPara3438">svazek 1</flowPara></flowRoot>    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 1563.5364,1609.6518 c 28.2866,6.4777 39.1658,12.4927 34.0887,16.1943 11.6047,1.8508 15.9565,49.971 5.0771,58.7621 -0.7253,0.9256 -5.8024,3.7017 -3.6265,4.1644 2.1758,0.4626 15.2312,-0.9253 17.4071,0.9254 2.1758,1.8508 -19.583,28.2244 -16.6818,29.1497 2.9012,0.9254 69.6281,-16.657 79.0568,-12.4927 9.429,4.1643 4.3519,14.8062 7.253,15.269 2.9011,0.4626 29.7371,-2.3135 33.3637,-1.8509 3.6262,0.4628 12.998,11.0929 13.7802,14.8062 3.1915,-2.5174 20.3083,-6.0149 23.2095,-5.5522 2.9012,0.4627 4.9041,9.7952 5.077,12.4926 2.814,-2.5847 19.5829,-9.7164 21.7589,-9.2539 2.1757,0.4628 11.5762,18.9249 13.7804,24.9855 3.4235,-3.894 26.8358,-25.448 29.0118,-25.9108 2.1759,-0.4627 15.9563,31.4632 18.8577,31.926 2.9011,0.4627 17.4069,-21.7468 19.5828,-21.2841 2.1759,0.4627 15.9565,13.4183 18.8575,14.3436 2.9013,0.9253 21.759,-28.687 24.6599,-28.687 2.9014,0 27.5613,12.4927 29.7373,14.8061 2.1759,2.3135 4.3515,-12.0301 7.2528,-12.0301 2.9012,0 36.2646,8.3286 36.9899,7.8659 0.7252,-0.4627 -5.077,-9.2538 -2.9011,-9.2538 36.814,5.1423 82.5278,12.31 116.772,18.9704 -14.1919,-11.6279 -32.6381,-37.9409 -29.0119,-40.717 3.6266,-2.7763 16.682,0.4626 17.4074,-0.9255 0.7252,-1.388 -7.9783,-7.403 -5.8026,-9.2539 2.176,-1.8507 29.0118,-11.5673 29.0118,-11.5673 0,0 -10.8793,-8.3286 -7.9783,-9.7167 2.9013,-1.3881 30.9058,-11.1331 46.419,-12.4927 -5.9966,-2.075 -21.7588,-13.418 -18.8578,-16.657 2.9013,-3.2388 4.3818,-4.15 10.1541,-6.9404 -2.7419,-1.3597 -14.5059,-5.0896 -13.7805,-7.4031 0.7254,-2.3135 7.9782,-13.8809 10.1541,-15.7316 2.1759,-1.8508 -15.2312,-0.9254 -15.2312,-2.7762 0,-1.8508 -3.2509,-17.5936 57.843,-45.9453 -81.4027,14.5795 -109.336,3.2987 -133.2704,-0.4028 -23.935,-3.7016 -9.7914,-14.7601 -3.6293,-26.2949 -13.9675,6.6425 -31.2333,9.6238 -34.089,4.6269 -3.6263,-3.2388 -3.8032,-2.0196 -7.9782,-9.2539 -14.5945,9.8474 -19.583,12.9554 -23.2092,12.4928 -3.6266,-0.4627 -31.5312,-7.3837 -42.7924,-21.284 -14.3531,9.6841 -24.6599,7.8659 -29.0118,8.3285 -4.3518,0.4627 -6.9475,-3.426 -11.6046,-10.1792 -3.6266,0.9253 -26.8358,9.2539 -30.4622,8.3284 -3.6265,-0.9253 -3.4356,0.8579 -9.429,-3.7014 -2.901,0.9253 -15.9563,4.6269 -15.9563,4.6269 0,0 -8.2598,1.993 -13.7806,-2.7762 -12.1451,10.7828 -30.3867,14.0247 -37.7151,16.1943 -6.7439,-3.0146 -34.814,-35.1648 -32.6381,-37.941 2.1759,-2.7762 -32.6384,38.4037 -37.7153,39.7918 -5.0771,1.388 -15.1549,1.6116 -21.7588,-1.3881 -1.4508,1.3881 -5.8024,8.7911 -10.1542,9.2539 -4.3517,0.4626 -14.5058,2.3133 -14.5058,2.3133 l 1.4505,2.7763 c 0,0 -30.4622,-7.4031 -34.0888,-10.1793 -3.6264,-2.7761 2.176,12.03 4.3519,15.7316 -13.0551,-3.7016 -51.4958,-11.5674 -54.3967,-13.8809 -2.9014,-2.3134 5.0767,8.3286 9.4285,11.5674 -5.8022,-1.3881 -10.8794,-1.8507 -10.8794,-1.8507 l 16.6818,11.1046 -5.077,0.9255 c 0,0 10.8793,5.0896 10.8793,7.4031 0,2.3135 -28.2864,5.0896 -28.2864,5.0896 0,0 11.6048,4.1642 8.7036,6.4777 -2.9013,2.3135 -10.1541,3.7015 -10.1541,3.7015 l -1.4506,6.0151 z"
+       id="path5888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccscccscccccscscsccccscccccccsscscccccccccccccccccccccccccsccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1438.7362,1306.9683)"><flowRegion
+         id="flowRegion2989-5-4-5-6"><rect
+           id="rect2991-7-9-6-7"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3366">... když se na ně</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3442">nemůžu spolehnout ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4133-6-9-4-8-5"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate"
+       transform="matrix(10.283923,-3.5657956,-12.443827,23.496268,2124.6009,-18237.468)"><flowRegion
+         id="flowRegion4135-2-9-3-5-2"
+         style="stroke-width:0.86646658"><rect
+           id="rect4137-1-7-1-2-1"
+           width="92.489304"
+           height="30.687002"
+           x="1125.3193"
+           y="1078.5308"
+           style="color:#000000;letter-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate" /></flowRegion><flowPara
+         id="flowPara4139-2-8-6-8-6"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.81596088px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.0836072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter4375-4-1-1-15-1-3);enable-background:accumulate">vzooom</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="472.33951"
+       y="266.25055"
+       id="text3358"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3360"
+         x="472.33951"
+         y="266.25055" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt" />
+</svg>

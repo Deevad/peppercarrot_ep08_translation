@@ -23,6 +23,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Kateřina Fleknová
+
 * Dutch: Peter Moonen
 
 * English: Alex Gryson
