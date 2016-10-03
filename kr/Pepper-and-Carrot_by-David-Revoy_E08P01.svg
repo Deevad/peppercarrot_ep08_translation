@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.24734685"
-     inkscape:cx="1717.6711"
-     inkscape:cy="1656.462"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="0.34980127"
+     inkscape:cx="1233.8566"
+     inkscape:cy="1640.0878"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Copy/PepperCarrot/Git/peppercarrot_ep08_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
+       sodipodi:absref="/sandbox/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        y="0"
        x="0"
@@ -88,7 +88,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1550.8436,1412.357)"><flowRegion
+       transform="translate(1554.2358,1416.357)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -97,5 +97,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3394">Jeg har snart bursdag, men jeg har ingen venner å feire den med...</flowPara></flowRoot>  </g>
+         id="flowPara3394"> 내 생일이 다가오는데</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3351">같이 축하해줄 친구들이</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3353">없어...</flowPara></flowRoot>  </g>
 </svg>

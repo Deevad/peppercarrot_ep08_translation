@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.17293104"
-     inkscape:cx="1592.5535"
-     inkscape:cy="1827.2451"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="0.34586208"
+     inkscape:cx="1422.5789"
+     inkscape:cy="2124.1911"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Copy/PepperCarrot/Git/peppercarrot_ep08_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
+       sodipodi:absref="/sandbox/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
        width="2481"
        height="3503"
@@ -92,7 +92,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(712.30388,107.2025)"><flowRegion
+       transform="translate(697.84725,107.2025)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -101,7 +101,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">Da var vi der ...</flowPara></flowRoot>    <path
+         id="flowPara3030-8">이젠..</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
        d="m 893.18204,1249.4794 c -1.31625,-92.8012 48.93756,-123.2246 328.94306,-122.581 247.802,0.5694 304.9078,25.9815 303.803,115.0131 -1.4771,119.0323 -97.3249,131.0323 -297.3708,132.9095 -200.046,1.8773 -332.34479,4.0749 -335.37526,-125.3416 z"
        id="path3270"
@@ -110,21 +110,21 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:136%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(780.01161,878.0679)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(787.16728,892.37923)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:136%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;" /></flowRegion><flowPara
-         style="font-size:48px;line-height:136%;text-align:center;text-anchor:middle;"
-         id="flowPara3065">... alt er klart.</flowPara><flowPara
-         style="font-size:48px;line-height:136%;text-align:center;text-anchor:middle;"
-         id="flowPara4167">Nå kan vi slappe av mens vi</flowPara><flowPara
-         style="font-size:48px;line-height:136%;text-align:center;text-anchor:middle;"
-         id="flowPara4171">venter på gjestene våre</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3065">.. 모든 준비가 다</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3351">되어 있어! 이제</flowPara><flowPara
+         style="font-size:48px;text-align:center;text-anchor:middle"
+         id="flowPara3353">기다리기만 하면 돼!</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"

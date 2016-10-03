@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.32343249"
-     inkscape:cx="968.11525"
-     inkscape:cy="1221.1413"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="0.45740262"
+     inkscape:cx="1255.4431"
+     inkscape:cy="2823.7209"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Copy/PepperCarrot/Git/peppercarrot_ep08_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       sodipodi:absref="/sandbox/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
        y="0"
        x="0"
@@ -84,7 +84,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.80285874,0,0,0.80285874,951.15851,283.7478)"><flowRegion
+       transform="translate(857.57883,226.367)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -93,7 +93,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3013">... litt forsinket bare ...</flowPara></flowRoot>    <path
+         id="flowPara3013">... 올거야 ...</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 818.7665,373.54199 c 0.1874,-37.64305 68.12225,-73.08808 263.3898,-67.62706 104.5958,2.92518 256.8493,20.93255 257.5716,67.40945 1.4381,92.54036 -191.4249,69.57238 -242.5702,72.1613 -51.2618,2.59481 -155.05685,1.81389 -212.71646,-16.89988 -35.91588,-11.65671 -67.26921,-21.06168 -65.67474,-55.04381 z"
        id="path4546-0"
@@ -103,7 +103,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.89316914,0,0,0.89316914,706.39911,107.2066)"><flowRegion
+       transform="translate(660.2693,79.434326)"><flowRegion
          id="flowRegion2989-5-4-5-3"><rect
            id="rect2991-7-9-6-8"
            width="602.40173"
@@ -112,27 +112,13 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3051">Men... hvor blir de av ...</flowPara><flowPara
+         id="flowPara3051">언잰가는..</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3372" /></flowRoot>    <path
+         id="flowPara3372">분명히 ...</flowPara></flowRoot>    <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 1390.4444,579.0932 c 18.7289,5.11471 39.3681,13.94076 42.3389,17.10636 2.9707,3.16561 3.5403,29.0288 9.435,31.36015 5.8946,2.33123 19.9529,-4.23421 23.181,-1.87166 3.2281,2.36253 6.9164,21.25493 11.735,22.7987 4.8187,1.54378 31.4537,-1.43509 33.8787,0.67009 2.425,2.10524 15.6258,13.41875 31.9608,19.09482 -24.538,-22.91551 -24.3587,-30.38519 -30.2534,-32.71645 -5.8946,-2.33133 -22.6507,1.59871 -27.2277,-2.08151 -4.577,-3.68014 -8.5227,-21.76961 -14.9476,-23.8279 -6.4248,-2.05835 -17.3175,1.53629 -17.3175,1.53629 1.5283,-6.15207 4.6076,-39.25886 -25.7157,-55.17241 -30.3235,-15.91365 -37.0675,23.10352 -37.0675,23.10352 z"
        id="path5050"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:43.14556885px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="901.19818"
-       y="463.63651"
-       id="text4160"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4162"
-         x="901.19818"
-         y="463.63651"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">..de kommer <tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-   id="tspan4164">nok</tspan>...</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
