@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.34586208"
-     inkscape:cx="1422.5789"
-     inkscape:cy="2124.1911"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.48912284"
+     inkscape:cx="1634.6472"
+     inkscape:cy="1836.1727"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
+       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -75,8 +75,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccscccsc" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 891.89214,411.49246 c -9.05889,-52.23413 97.92358,-72.42139 226.30716,-70.97208 128.3831,1.44931 247.1315,19.07446 243.19,65.03871 -3.9416,45.96423 -119.5625,63.61434 -230.873,61.52318 -111.311,-2.09117 -229.5653,-3.35569 -238.62416,-55.58981 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 984.20353,411.49246 c -5.49326,-52.23413 59.38037,-72.42139 137.23157,-70.97208 77.851,1.44931 149.8594,19.07446 147.4693,65.03871 -2.3901,45.96423 -72.5021,63.61434 -140.0003,61.52318 -67.4985,-2.09117 -139.20731,-3.35569 -144.70057,-55.58981 z"
        id="path3565"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zszsz" />
@@ -92,7 +92,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(697.84725,107.2025)"><flowRegion
+       transform="matrix(1.7124964,0,0,1.7124964,398.42185,-102.61864)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -100,31 +100,31 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3030-8">이젠..</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3030-8">됐다 ...</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 893.18204,1249.4794 c -1.31625,-92.8012 48.93756,-123.2246 328.94306,-122.581 247.802,0.5694 304.9078,25.9815 303.803,115.0131 -1.4771,119.0323 -97.3249,131.0323 -297.3708,132.9095 -200.046,1.8773 -332.34479,4.0749 -335.37526,-125.3416 z"
+       d="m 991.30959,1249.4794 c -0.92925,-92.8012 34.54931,-123.2246 232.22961,-122.581 174.9451,0.5694 215.261,25.9815 214.481,115.0131 -1.0428,119.0323 -68.7101,131.0323 -209.94,132.9095 -141.2299,1.8773 -234.63113,4.0749 -236.77061,-125.3416 z"
        id="path3270"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(787.16728,892.37923)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.3263377,0,0,1.3263377,656.92325,813.844)"><flowRegion
          id="flowRegion2989-5-4-5-6"><rect
            id="rect2991-7-9-6-4"
            width="602.40173"
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3065">.. 모든 준비가 다</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3351">되어 있어! 이제</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3353">기다리기만 하면 돼!</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3353">... 준비는 다 끝났어,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3355">이젠 올 때까지</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3357">기다리기만 하면 돼</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"

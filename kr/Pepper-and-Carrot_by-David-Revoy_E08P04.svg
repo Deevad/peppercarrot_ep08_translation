@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="960"
+     inkscape:window-height="1024"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45740262"
-     inkscape:cx="1255.4431"
-     inkscape:cy="2823.7209"
+     inkscape:zoom="0.22870131"
+     inkscape:cx="1462.0941"
+     inkscape:cy="1517.4816"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
@@ -56,27 +56,27 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 880.1864,440.58968 c 0.14158,-33.76631 51.46871,-65.56095 199.0001,-60.66235 79.0258,2.62392 194.0586,18.77677 194.6043,60.46715 1.0865,83.00989 -144.6282,62.40731 -183.2702,64.7296 -38.73,2.32758 -117.15085,1.62709 -160.71467,-15.1594 -27.13569,-10.45621 -50.82421,-18.8926 -49.61953,-49.375 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 950.131,440.58968 c 0.0913,-33.76631 33.17467,-65.56095 128.2675,-60.66235 50.9369,2.62392 125.0825,18.77677 125.4342,60.46715 0.7003,83.00989 -93.2216,62.40731 -118.1287,64.7296 -24.9638,2.32758 -75.5107,1.62709 -103.59023,-15.1594 -17.49059,-10.45621 -32.75926,-18.8926 -31.98277,-49.375 z"
        id="path4546-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1065.2159,520.14236 c 0.1613,-18.27017 58.6402,-75.95276 226.7279,-70.27769 90.0369,3.03982 214.301,21.75865 215.1736,70.05155 1.2381,68.50897 -176.6988,66.44352 -206.8889,68.47455 -30.1901,2.03111 -127.7283,2.31248 -178.4793,-14.95622 -43.2597,-14.71963 -56.363,-28.40229 -56.5333,-53.29219 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1102.3823,520.14236 c 0.1166,-18.27017 42.3939,-75.95276 163.913,-70.27769 65.0922,3.03982 154.929,21.75865 155.5598,70.05155 0.8951,68.50897 -127.7444,66.44352 -149.5704,68.47455 -21.8259,2.03111 -92.3412,2.31248 -129.0316,-14.95622 -31.2747,-14.71963 -40.7477,-28.40229 -40.8708,-53.29219 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -84,7 +84,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(857.57883,226.367)"><flowRegion
+       transform="matrix(1.382815,0,0,1.382815,681.18704,111.37735)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -92,10 +92,10 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3013">... 올거야 ...</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 818.7665,373.54199 c 0.1874,-37.64305 68.12225,-73.08808 263.3898,-67.62706 104.5958,2.92518 256.8493,20.93255 257.5716,67.40945 1.4381,92.54036 -191.4249,69.57238 -242.5702,72.1613 -51.2618,2.59481 -155.05685,1.81389 -212.71646,-16.89988 -35.91588,-11.65671 -67.26921,-21.06168 -65.67474,-55.04381 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 890.89686,373.54199 c 0.13551,-37.64305 49.25653,-73.08808 190.44684,-67.62706 75.6291,2.92518 185.7176,20.93255 186.2399,67.40945 1.0398,92.54036 -138.4118,69.57238 -175.393,72.1613 -37.0654,2.59481 -112.11551,1.81389 -153.80691,-16.89988 -25.96936,-11.65671 -48.63972,-21.06168 -47.48683,-55.04381 z"
        id="path4546-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -103,7 +103,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(660.2693,79.434326)"><flowRegion
+       transform="matrix(1.3896363,0,0,1.3896363,496.48709,-34.71451)"><flowRegion
          id="flowRegion2989-5-4-5-3"><rect
            id="rect2991-7-9-6-8"
            width="602.40173"
@@ -111,15 +111,28 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3051">언잰가는..</flowPara><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3372">분명히 ...</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1390.4444,579.0932 c 18.7289,5.11471 39.3681,13.94076 42.3389,17.10636 2.9707,3.16561 3.5403,29.0288 9.435,31.36015 5.8946,2.33123 19.9529,-4.23421 23.181,-1.87166 3.2281,2.36253 6.9164,21.25493 11.735,22.7987 4.8187,1.54378 31.4537,-1.43509 33.8787,0.67009 2.425,2.10524 15.6258,13.41875 31.9608,19.09482 -24.538,-22.91551 -24.3587,-30.38519 -30.2534,-32.71645 -5.8946,-2.33133 -22.6507,1.59871 -27.2277,-2.08151 -4.577,-3.68014 -8.5227,-21.76961 -14.9476,-23.8279 -6.4248,-2.05835 -17.3175,1.53629 -17.3175,1.53629 1.5283,-6.15207 4.6076,-39.25886 -25.7157,-55.17241 -30.3235,-15.91365 -37.0675,23.10352 -37.0675,23.10352 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3372">그래도 난 믿어...</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3351" /></flowRoot>    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1348.9055,569.01765 c 23.8294,5.69271 50.0894,15.51617 53.8692,19.0395 3.7797,3.52335 4.5045,32.30927 12.0045,34.90408 7.4999,2.59467 25.3867,-4.71271 29.4939,-2.08318 4.1073,2.62952 8.8,23.6569 14.9309,25.37512 6.131,1.71824 40.0196,-1.59726 43.105,0.74582 3.0854,2.34314 19.8812,14.93516 40.6648,21.25267 -31.2205,-25.50513 -30.9924,-33.81894 -38.4924,-36.41365 -7.4999,-2.59478 -28.8193,1.77938 -34.6427,-2.31673 -5.8235,-4.09602 -10.8438,-24.22973 -19.0184,-26.52063 -8.1745,-2.29095 -22.0336,1.70991 -22.0336,1.70991 1.9445,-6.8473 5.8624,-43.6954 -32.719,-61.4073 -38.5816,-17.712 -47.1622,25.71439 -47.1622,25.71439 z"
        id="path5050"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.67563629px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1,0,-0.30902268,1,943.96131,417.03187)"><flowRegion
+         id="flowRegion2989-5-4-5-3-6"><rect
+           id="rect2991-7-9-6-8-7"
+           width="837.11932"
+           height="431.81552"
+           x="-268.45609"
+           y="-12.912379"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.70254517px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
+         id="flowPara3351-3">분명히 ...</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
