@@ -136,7 +136,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="960"
-     inkscape:window-height="1024"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90380222"
@@ -152,13 +152,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
+     sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 8화 : 후추의 생일잔치</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 8화 : 페퍼의 생일잔치</flowPara></flowRoot>  </g>
 </svg>
