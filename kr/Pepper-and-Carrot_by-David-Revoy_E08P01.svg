@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.19"
-     inkscape:cx="609.81022"
-     inkscape:cy="1418.6734"
-     inkscape:window-x="960"
+     inkscape:zoom="0.38"
+     inkscape:cx="1352.4294"
+     inkscape:cy="1600.9859"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P01.png"
        width="2481"
        height="3503"
@@ -88,18 +88,14 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.4777096,0,0,1.4777096,1298.6032,1274.3897)"><flowRegion
+       transform="matrix(1.4777096,0,0,1.4777096,1506.4979,1282.2844)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
-           width="602.40173"
-           height="310.73996"
+           width="321.02744"
+           height="289.36972"
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3353">내 생일이 곧 다가오는데</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3349">같이 축하해 줄</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3351">친구들이 없네...</flowPara></flowRoot>  </g>
+         id="flowPara3351">조금 있으면 내 생일인데 같이 축하해 줄 친구들이 없네...</flowPara></flowRoot>  </g>
 </svg>
