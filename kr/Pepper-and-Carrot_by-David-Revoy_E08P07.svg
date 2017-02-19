@@ -39,16 +39,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
-     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25455844"
      inkscape:cx="1107.7066"
      inkscape:cy="1392.1936"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
      showguides="true"
@@ -65,13 +65,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/graphene/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P07.png"
-       width="2481"
-       height="2479"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="2479"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -226,7 +226,7 @@
            y="219.33444"
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara4735">여러분도 페퍼와 캐럿의</flowPara><flowPara
+         id="flowPara4735">여러분도 후추와 당근의</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3386">다음 화의 후원자가 될 수 있습니다 :</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -285,9 +285,9 @@
            y="224.47961"
            style="line-height:100%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3410"></flowPara><flowPara
+         id="flowPara3410" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
-         id="flowPara3551">페퍼와 캐럿은 후원자들의 도움으로 완전히 무료이고 오픈소스이며 재정적 지원을</flowPara><flowPara
+         id="flowPara3551">후추와 당근은 후원자들의 도움으로 완전히 무료이고 오픈소스이며 재정적 지원을</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle"
          id="flowPara3553">받고 있습니다. 이번 화를 후원해 주신 354명의 후원자에게 감사드립니다 :</flowPara></flowRoot>  </g>
 </svg>

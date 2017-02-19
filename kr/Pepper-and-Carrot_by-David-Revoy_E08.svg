@@ -154,11 +154,11 @@
   <image
      sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep08_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -176,5 +176,5 @@
            y="644.36664"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 8화 : 페퍼의 생일잔치</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">제 8화 : 후추의 생일잔치</flowPara></flowRoot>  </g>
 </svg>
