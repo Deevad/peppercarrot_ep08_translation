@@ -25,6 +25,8 @@ License
 
 * Czech: Kateřina Fleknová
 
+* Danish: [Emmiline](https://github.com/Emmilinette) and [Alexandre](https://github.com/Alkarex) Alapetite
+
 * Dutch: Peter Moonen
 
 * English: Alex Gryson
