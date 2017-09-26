@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91pre3 r13670"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P06.svg">
@@ -99,23 +99,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1137"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3977414"
-     inkscape:cx="1152.3762"
-     inkscape:cy="529.49007"
+     inkscape:cx="531.36968"
+     inkscape:cy="630.05793"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep08_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
+       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep08_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P06.png"
        width="2481"
        height="3503"
@@ -149,7 +149,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(1.1000385,0,0,1.1857741,-34.37257,-213.00634)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
@@ -157,10 +157,10 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          id="flowPara3030-8">Monštros do Caosāh</flowPara><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          id="flowPara3071">ào seu šeŗviço!</flowPara></flowRoot>    <path
        style="fill:#0a0a0a;stroke:none;fill-opacity:1"
        d="m 703.64391,313.13826 c -16.30238,-21.89161 -27.89514,-35.54924 -41.16681,-37.10481 -13.27137,-1.55556 -28.71087,-4.23539 -39.95559,3.83155 -11.24463,8.06699 -32.57,14.61198 -40.47637,10.27956 -7.90643,-4.33257 -36.46988,-21.00102 -43.45702,-41.53591 -6.98711,-20.53499 -36.78359,15.66953 -36.78359,15.66953 0,0 24.32478,33.46576 30.57134,38.09567 6.24676,4.63 21.78968,22.4213 54.2249,12.37256 32.43506,-10.04895 49.94525,-25.29075 66.15659,-26.38018 16.21125,-1.08949 39.93677,7.97314 50.88655,24.77203 z"
@@ -169,7 +169,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="matrix(1.0294216,0,0,1.120441,1510.5197,-179.80663)"><flowRegion
          id="flowRegion2989-5-4-5-0"><rect
            id="rect2991-7-9-6-9"
@@ -177,12 +177,12 @@
            height="310.73996"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          id="flowPara3354">Quem vôcê dešeja que </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3052"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="matrix(1.0591558,0,0,1.1455826,-152.06979,-472.97969)"><flowRegion
          id="flowRegion3054"><rect
            id="rect3056"
@@ -192,7 +192,7 @@
            y="568.00012"
            style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3058"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti">àtaquemos?...</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4333595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">àtaquemos?...</flowPara></flowRoot>    <path
        style="fill:#0f0f0f;fill-opacity:1;stroke:none"
        d="m 237.10489,237.06424 c 2.80761,36.52658 -11.35308,47.35795 -7.52941,55.30478 3.82367,7.94683 15.88148,11.5559 18.34663,1.82857 2.46515,-9.72731 -8.73416,-30.03299 -4.16613,-54.20072"
        id="path3060"
@@ -220,7 +220,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(1130.3591,3147.3921)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76"><rect
            id="rect2991-7-9-6-21-9-8-0-3"
@@ -228,25 +228,25 @@
            height="56.977448"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3272-6">Episódio 8 : A Festa de aniversário da Pepper</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:48px;line-height:1.25;text-align:center;text-anchor:middle"
+         id="flowPara3272-6">Episódio 8: A Festa de Aniversário da Pepper</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.90617713,0,-0.22078013,1.6225798,1930.9987,2966.1319)"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="font-size:48px;line-height:1.25;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.69999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4358-7-1">FIN</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.91627909;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.85571819,0,0,0.85571819,131.76361,3115.6849)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
@@ -254,7 +254,7 @@
            height="72.357925"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-         style="font-size:46.74436188px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-size:46.74436188px;line-height:1.25;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
          id="flowPara3272-6-3-1">Junho 2015 - www.peppercarrot.com - Arte e roteiro por David Revoy -  Tradução por Frederico Batista</flowPara></flowRoot>  </g>
 </svg>
